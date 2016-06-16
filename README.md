@@ -1,2 +1,2 @@
 # matrix-calculator
-matrix calculator using java
+matrix calculator using OOP C++
